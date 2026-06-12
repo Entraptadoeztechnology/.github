@@ -7,7 +7,8 @@
   <br>
   <p>The project is now not being maintained anymore!</p>
   <li>Contributing to the UGS project!</li>
-  <p>Status:✅, this project is still maintained!</p>
+  <br>
+  <p><b>Status:✅</b>, this project is still maintained by a lot of devs!</p>
 </li>
 <!--list the projects that you are the most proud of-->
 <!--
