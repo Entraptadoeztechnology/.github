@@ -1,5 +1,8 @@
 ## Hi there, welcome to our organization 👋
+<p>At this organization, we help students protect <b>their digital rights</b> and by using one of our scripts you show us that you <b>care</b>!</p>
 
+## Project That We are Proud Of...
+<!--list the projects that you are the most proud of-->
 <!--
 
 **Here are some ideas to get you started:**
