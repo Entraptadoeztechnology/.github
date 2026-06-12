@@ -1,11 +1,13 @@
 ## Hi there, welcome to our organization 👋
 <p>At this organization, we help students protect <b>their digital rights</b> and by using one of our scripts you show us that you <b>care</b>!</p>
 
-## Project That We are Proud Of...
+## Project That We Are Proud Of...
 <li>
   Creating <a href = "https://github.com/Entraptadoeztechnology/Inj4ct0r-bypass">In4ct0r</a>(a bypass launcher)<a href = "https://github.com/entraptadoeztech">-Entraptadoeztech</a>
   <br>
   <p>The project is now not being maintained anymore!</p>
+  <li>Contributing to the UGS project!</li>
+  <p>Status:✅, this project is still maintained!</p>
 </li>
 <!--list the projects that you are the most proud of-->
 <!--
