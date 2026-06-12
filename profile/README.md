@@ -3,7 +3,7 @@
 
 ## Project That We are Proud Of...
 <li>
-  Creating In4ct0r(a bypass launcher)-<a href = "https://github.com/entraptadoeztech">Entraptadoeztech</a>
+  Creating <a href = "https://github.com/entraptadoeztech/in4ct0r-bypass">In4ct0r</a>(a bypass launcher)-<a href = "https://github.com/entraptadoeztech">Entraptadoeztech</a>
 </li>
 <!--list the projects that you are the most proud of-->
 <!--
